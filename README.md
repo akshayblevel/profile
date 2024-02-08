@@ -10,9 +10,9 @@ I am Akshay, a software developer.
 ## Design & Architecture
 |    |  |  |  |   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Solid Principles](https://github.com/akshayblevel/SOLID)   | [Factory](https://github.com/akshayblevel/Factory-Design-Pattern) | [Abstract Factory](https://github.com/akshayblevel/AbstractFactory-Design-Pattern) | [Builder](https://github.com/akshayblevel/Builder-Design-Pattern)  | [Prototype](https://github.com/akshayblevel/Prototype-Design-Pattern)  |
-| [Singleton](https://github.com/akshayblevel/Singleton-Design-Pattern)   | [Facade](https://github.com/akshayblevel/Facade-Design-Pattern) | [Decorator](https://github.com/akshayblevel/Decorator-Design-Pattern) | [Adapter](https://github.com/akshayblevel/Adapter-Design-Pattern)  | [Chain of Responsibility](https://github.com/akshayblevel/ChainOfResponsibility-Design-Pattern)  |
-| [Strategy](https://github.com/akshayblevel/Strategy-Design-Pattern)   | [Bridge](https://github.com/akshayblevel/Bridge-Design-Pattern) | []() | []()  | []()  |
+| [Solid Principles](https://github.com/akshayblevel/SOLID)   | [Factory Design Pattern](https://github.com/akshayblevel/Factory-Design-Pattern) | [Abstract Factory Design Pattern](https://github.com/akshayblevel/AbstractFactory-Design-Pattern) | [Builder Design Pattern](https://github.com/akshayblevel/Builder-Design-Pattern)  | [Prototype Design Pattern](https://github.com/akshayblevel/Prototype-Design-Pattern)  |
+| [Singleton Design Pattern](https://github.com/akshayblevel/Singleton-Design-Pattern)   | [Facade Design Pattern](https://github.com/akshayblevel/Facade-Design-Pattern) | [Decorator Design Pattern](https://github.com/akshayblevel/Decorator-Design-Pattern) | [Adapter Design Pattern](https://github.com/akshayblevel/Adapter-Design-Pattern)  | [Chain of Responsibility Design Pattern](https://github.com/akshayblevel/ChainOfResponsibility-Design-Pattern)  |
+| [Strategy Design Pattern](https://github.com/akshayblevel/Strategy-Design-Pattern)   | [Bridge Design Pattern](https://github.com/akshayblevel/Bridge-Design-Pattern) | []() | []()  | []()  |
 | [IOC Unity](https://github.com/akshayblevel/IOC-Unity) | [IOC NInject](https://github.com/akshayblevel/IOC-NInject) | | | |
 | [Hexagonal Architecture](https://github.com/akshayblevel/Hexagonal-Architecture) | | | | |
 
@@ -42,6 +42,15 @@ I am Akshay, a software developer.
 | [Input](https://github.com/akshayblevel/angular--input) | [Output](https://github.com/akshayblevel/angular--output) | [Service Root Level DI](https://github.com/akshayblevel/angular-servicerootleveldi) | [Service Component Level DI](https://github.com/akshayblevel/angular-servicecomponentleveldi) | [Http Client](https://github.com/akshayblevel/angular-httpclient) |
 | [Routes](https://github.com/akshayblevel/angular-routes) | [Routes Param Snapshot](https://github.com/akshayblevel/angular-routesparamsnapshot) | [Routes With Code](https://github.com/akshayblevel/angular-routeswithcode) | [Routes With Guards](https://github.com/akshayblevel/angular-routeswithguards) | [Shared Module](https://github.com/akshayblevel/angular-sharedmodule) |
 | [Feature Module](https://github.com/akshayblevel/angular-featuremodule) | | | | |
+
+## React
+|    |  |  |  |   |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Template](https://github.com/akshayblevel/react-ts-template) | [Add Function In App](https://github.com/akshayblevel/react-ts-addfuninapp) | [Add Function In App Multiple Times](https://github.com/akshayblevel/react-ts-addfuninappmultipletimes) | [Props In Function](https://github.com/akshayblevel/react-ts-propsinfun) | [Multiple Props In Function](https://github.com/akshayblevel/react-ts-multiplepropsinfun) |
+| [For Loop](https://github.com/akshayblevel/react-ts-forloop) | [Json To Array Transform](https://github.com/akshayblevel/react-ts-jsontoarraytransform) | [Use State](https://github.com/akshayblevel/react-ts-usestate) | [Router](https://github.com/akshayblevel/react-ts-router) | [Context](https://github.com/akshayblevel/react-ts-context) |
+| [Dot Env](https://github.com/akshayblevel/react-ts-dotenv) | [Axios](https://github.com/akshayblevel/react-ts-axios) | [Use Effect](https://github.com/akshayblevel/react-ts-useeffect) | [Callback](https://github.com/akshayblevel/react-ts-callback) | [Link](https://github.com/akshayblevel/react-ts-link) |
+| [Use Ref](https://github.com/akshayblevel/react-ts-useref) | [Use Reducer](https://github.com/akshayblevel/react-ts-usereducer) | [Use Memo](https://github.com/akshayblevel/react-ts-usememo) | [Memo](https://github.com/akshayblevel/react-ts-memo) | [Use Callback](https://github.com/akshayblevel/react-ts-usecallback) |
+| [Class Comp CRUD](https://github.com/akshayblevel/react-ts-classcomp-crud) | [Class Comp State From Parent To Child](https://github.com/akshayblevel/react-ts-classcomp-statefromparenttochild) | []() | []() | []() |
 
 ## Contact Me
 You can reach me at <akshayblevel@gmail.com>
