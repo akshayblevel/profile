@@ -23,13 +23,26 @@ I am Akshay, a software developer.
 * [Service Bus - Topic](https://github.com/akshayblevel/Azure-ServiceBus-Topic)
 * [Service Bus - Relay](https://github.com/akshayblevel/Azure-ServiceBus-Relay)
 
-## Dotnet Core
+## DotNet Core
 |    |  |  |  |   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Dotnet8 - Dapper](https://github.com/akshayblevel/DotNet8-Dapper) |  |  |  |  |
 | [Rabbit MQ](https://github.com/akshayblevel/Core-RabbitMQ-Basic) | [NLog](https://github.com/akshayblevel/Core-NLog) | [NLog Text File](https://github.com/akshayblevel/Core-NLog-TextFile) | [NLog Event Log](https://github.com/akshayblevel/Core-NLog-EventLog) | [NLog Rabbit MQ](https://github.com/akshayblevel/Core-NLog-RabbitMQ) | 
 | [Dependency Injection](https://github.com/akshayblevel/Core-DependencyInjection) | [DI Multiple Implementation](https://github.com/akshayblevel/Core-DI-MultipleImplementation) | [In Memory Database](https://github.com/akshayblevel/Core-InMemoryDatabase) | [Environment Specific Custom Config](https://github.com/akshayblevel/Core-EnvironmentSpecificCustomConfig) | [Reload On Change Config](https://github.com/akshayblevel/Core-ReloadOnChangeConfig) | 
 | [GraphQL Single Table](https://github.com/akshayblevel/Core-GraphQL-SingleTable) | [GraphQL Single Table Argument](https://github.com/akshayblevel/Core-GraphQL-SingleTableArgument) | [GraphQL Nested Table](https://github.com/akshayblevel/Core-GraphQL-NestedTable) | [GraphQL Nested Table with Data Loader](https://github.com/akshayblevel/Core-GraphQL-NestedTableDataLoader) | [Async API](https://github.com/akshayblevel/Core-AsyncAPI) | 
 | [Redis DB Console](https://github.com/akshayblevel/Core-RedisDBConsole) | [Fluent Validation](https://github.com/akshayblevel/Core-FluentValidation) | [Elastic Search](https://github.com/akshayblevel/Core-GraphQL-ElasticSearch) | [Kafka Pub Sub](https://github.com/akshayblevel/Core-Kafka-PubSub) |  | 
+
+## SQL
+* [CLR Integration](https://github.com/akshayblevel/SQL-CLR-Integration)
+* [Liquibase](https://github.com/akshayblevel/Liquibase)
+
+## DotNet
+|    |  |  |  |   |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|[OAuth 1.0](https://github.com/akshayblevel/OAuth-1.0)  |[JWT](https://github.com/akshayblevel/JWT)  |[MVC Samples](https://github.com/akshayblevel/MVC-Samples)  |[NVelocity Template Engine](https://github.com/akshayblevel/NVelocity-Template-Engine)  |[CRON Quartz Net](https://github.com/akshayblevel/CRON-Quartz.Net)  |
+|[WebAPI - HTTP Response](https://github.com/akshayblevel/WebAPI-HTTPResponseMessage)  |[WebAPI - Custom Action Filter](https://github.com/akshayblevel/WebAPI-CustomActionFilter)  |[WCF - NetMsmqBinding](https://github.com/akshayblevel/WCF-NetMsmqBinding)  |[SignalR]()  |[Log4Net]()  |
+|[C# - Samples](https://github.com/akshayblevel/CSharp-Samples)  |[C# - Performance Tips](https://github.com/akshayblevel/CSharp-PerformanceTips)  |[C# - Practicle QA](https://github.com/akshayblevel/CSharp-PracticalQA)  |  |  |
+
 
 ## Angular
 |    |  |  |  |   |
