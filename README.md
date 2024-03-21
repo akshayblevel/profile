@@ -38,7 +38,7 @@
 | [Singleton Design Pattern](https://github.com/akshayblevel/Singleton-Design-Pattern)   | [Facade Design Pattern](https://github.com/akshayblevel/Facade-Design-Pattern) | [Decorator Design Pattern](https://github.com/akshayblevel/Decorator-Design-Pattern) | [Adapter Design Pattern](https://github.com/akshayblevel/Adapter-Design-Pattern)  | [Chain of Responsibility Design Pattern](https://github.com/akshayblevel/ChainOfResponsibility-Design-Pattern)  |
 | [Strategy Design Pattern](https://github.com/akshayblevel/Strategy-Design-Pattern)   | [Bridge Design Pattern](https://github.com/akshayblevel/Bridge-Design-Pattern) | []() | []()  | []()  |
 | [IOC Unity](https://github.com/akshayblevel/IOC-Unity) | [IOC NInject](https://github.com/akshayblevel/IOC-NInject) | | | |
-| [Hexagonal Architecture](https://github.com/akshayblevel/Hexagonal-Architecture) | | | | |
+| [Hexagonal Architecture](https://github.com/akshayblevel/Hexagonal-Architecture) | [Stairway Architecture](https://github.com/akshayblevel/Stairway-Architecture)| | | |
 
 
 ## Azure
