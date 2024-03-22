@@ -50,7 +50,7 @@
 ## DotNet Core
 |    |  |  |  |   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Dotnet8 - Dapper](https://github.com/akshayblevel/DotNet8-Dapper) | [Dotnet8 - KeyedServices](https://github.com/akshayblevel/Dotnet8-KeyedServices) |  |  |  |
+| [Dotnet8 - Dapper](https://github.com/akshayblevel/DotNet8-Dapper) | [Dotnet8 - KeyedServices](https://github.com/akshayblevel/Dotnet8-KeyedServices) | [CSharp-12](https://github.com/akshayblevel/CSharp12) |  |  |
 | [Rabbit MQ](https://github.com/akshayblevel/Core-RabbitMQ-Basic) | [NLog](https://github.com/akshayblevel/Core-NLog) | [NLog Text File](https://github.com/akshayblevel/Core-NLog-TextFile) | [NLog Event Log](https://github.com/akshayblevel/Core-NLog-EventLog) | [NLog Rabbit MQ](https://github.com/akshayblevel/Core-NLog-RabbitMQ) | 
 | [Dependency Injection](https://github.com/akshayblevel/Core-DependencyInjection) | [DI Multiple Implementation](https://github.com/akshayblevel/Core-DI-MultipleImplementation) | [In Memory Database](https://github.com/akshayblevel/Core-InMemoryDatabase) | [Environment Specific Custom Config](https://github.com/akshayblevel/Core-EnvironmentSpecificCustomConfig) | [Reload On Change Config](https://github.com/akshayblevel/Core-ReloadOnChangeConfig) | 
 | [GraphQL Single Table](https://github.com/akshayblevel/Core-GraphQL-SingleTable) | [GraphQL Single Table Argument](https://github.com/akshayblevel/Core-GraphQL-SingleTableArgument) | [GraphQL Nested Table](https://github.com/akshayblevel/Core-GraphQL-NestedTable) | [GraphQL Nested Table with Data Loader](https://github.com/akshayblevel/Core-GraphQL-NestedTableDataLoader) | [Async API](https://github.com/akshayblevel/Core-AsyncAPI) | 
