@@ -45,7 +45,7 @@
 |    |  |  |  |   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Azure - Cosmos DB](https://github.com/akshayblevel/Azure-CosmosDB) |[Azure - Service Bus - Queue](https://github.com/akshayblevel/Azure-ServiceBus-Queue) | [Azure - Service Bus - Topic](https://github.com/akshayblevel/Azure-ServiceBus-Topic) | [Azure - Service Bus - Relay](https://github.com/akshayblevel/Azure-ServiceBus-Relay) | [Azure Function - Text To Speech](https://github.com/akshayblevel/AZ-FN-TextToSpeech)  |
-| [Azure - Face Detection](https://github.com/akshayblevel/AZ-FaceDetection) | [Azure - Redis Data Structure](https://github.com/akshayblevel/AZ-Redis-DataStructure) |  |  |  |
+| [Azure - Face Detection](https://github.com/akshayblevel/AZ-FaceDetection) | [Azure - Redis Data Structure](https://github.com/akshayblevel/AZ-Redis-DataStructure) | [Azure -Redis - Repository](https://github.com/akshayblevel/AZ-Redis-Repository) |  |  |
 
 
 ## DotNet Core
