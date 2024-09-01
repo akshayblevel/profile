@@ -31,6 +31,11 @@
 * [Flask Auth Auth Using Json File](https://github.com/akshayblevel/Flask-AuthAuthUsingJsonFile)
 * [Flask Auth Auth Using DB](https://github.com/akshayblevel/Flask-AuthAuthUsingDB)
 
+## AI
+|    |  |  |  |   |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|  [AZ AI Retrieve Image Tags](https://github.com/akshayblevel/AZ-AI-RetrieveImageTags) |  |  |  |  |
+
 ## Design & Architecture
 |    |  |  |  |   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
