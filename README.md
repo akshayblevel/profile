@@ -34,7 +34,7 @@
 ## AI
 |    |  |  |  |   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  [AZ AI Retrieve Image Tags](https://github.com/akshayblevel/AZ-AI-RetrieveImageTags) |  |  |  |  |
+|  [AZ AI Image Tags](https://github.com/akshayblevel/AZ-AI-ImageTags) |  |  |  |  |
 
 ## Design & Architecture
 |    |  |  |  |   |
