@@ -25,11 +25,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayblevel&" alt="akshayblevel" /></p>
 
 ## Python
-* [Python Beginner](https://github.com/akshayblevel/Python-Beginner)
-* [Python Hacker Rank](https://github.com/akshayblevel/Python-HackerRank)
-* [Python SQLite](https://github.com/akshayblevel/Python-SQLite)
-* [Flask Auth Auth Using Json File](https://github.com/akshayblevel/Flask-AuthAuthUsingJsonFile)
-* [Flask Auth Auth Using DB](https://github.com/akshayblevel/Flask-AuthAuthUsingDB)
+|    |   |
+| ------------- | -------------- |
+| [Python Beginner](https://github.com/akshayblevel/Python-Beginner) | [Python Matplotlib](https://github.com/akshayblevel/Python-Matplotlib) |
+| [Python Hacker Rank](https://github.com/akshayblevel/Python-HackerRank) | |
+| [Python SQLite](https://github.com/akshayblevel/Python-SQLite) | |
+| [Flask Auth Auth Using Json File](https://github.com/akshayblevel/Flask-AuthAuthUsingJsonFile)| |
+| [Flask Auth Auth Using DB](https://github.com/akshayblevel/Flask-AuthAuthUsingDB)| |
 
 ## AI
 |    |  |  |  |   |
