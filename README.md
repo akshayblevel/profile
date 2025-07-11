@@ -28,7 +28,7 @@
 |    |   |
 | ------------- | -------------- |
 | [Python Beginner](https://github.com/akshayblevel/Python-Beginner) | [Python Matplotlib](https://github.com/akshayblevel/Python-Matplotlib) |
-| [Python Hacker Rank](https://github.com/akshayblevel/Python-HackerRank) | |
+| [Python Hacker Rank](https://github.com/akshayblevel/Python-HackerRank) | [Python NumPy](https://github.com/akshayblevel/Python-Numpy)|
 | [Python SQLite](https://github.com/akshayblevel/Python-SQLite) | |
 | [Flask Auth Auth Using Json File](https://github.com/akshayblevel/Flask-AuthAuthUsingJsonFile)| |
 | [Flask Auth Auth Using DB](https://github.com/akshayblevel/Flask-AuthAuthUsingDB)| |
