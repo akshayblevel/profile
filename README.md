@@ -29,6 +29,7 @@
 | ------------- | -------------- |-------------- |-------------- |-------------- |
 | [Python Beginner](https://github.com/akshayblevel/Python-Beginner) | [Python Matplotlib](https://github.com/akshayblevel/Python-Matplotlib) | [Python Hacker Rank](https://github.com/akshayblevel/Python-HackerRank) | [Python NumPy](https://github.com/akshayblevel/Python-Numpy)| [Python SQLite](https://github.com/akshayblevel/Python-SQLite) | 
 | [Python SOLID](https://github.com/akshayblevel/Python-SOLID) |[Flask Auth Auth Using Json File](https://github.com/akshayblevel/Flask-AuthAuthUsingJsonFile)| [Python SeaBorn](https://github.com/akshayblevel/Python-SeaBorn) | [Flask Auth Auth Using DB](https://github.com/akshayblevel/Flask-AuthAuthUsingDB)| [Python Pandas](https://github.com/akshayblevel/Python-Pandas) |
+|    |   |    |    |   |
 
 ## AI
 |    |  |  |  |   |
