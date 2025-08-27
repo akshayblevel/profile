@@ -35,7 +35,7 @@
 |    |  |  |  |   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  [AZ AI Image Tags](https://github.com/akshayblevel/AZ-AI-ImageTags) | [Azure Function - Text To Speech](https://github.com/akshayblevel/AZ-FN-TextToSpeech) | [Azure - Face Detection](https://github.com/akshayblevel/AZ-FaceDetection) | [AI - Tools](https://github.com/akshayblevel/AI-Tools) | [AZ AI Image Analysis](https://github.com/akshayblevel/AZ-AI-ImageAnalysis)  |
-|    |  |  |  |   |
+|  [AZ AI OCR](https://github.com/akshayblevel/AZ-AI-OCR)  |  |  |  |   |
 
 ## Design & Architecture
 |    |  |  |  |   |
