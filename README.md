@@ -35,7 +35,8 @@
 |    |  |  |  |   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  [AZ AI Image Tags](https://github.com/akshayblevel/AZ-AI-ImageTags) | [Azure Function - Text To Speech](https://github.com/akshayblevel/AZ-FN-TextToSpeech) | [Azure - Face Detection](https://github.com/akshayblevel/AZ-FaceDetection) | [AI - Tools](https://github.com/akshayblevel/AI-Tools) | [AZ AI Vision Image Analysis](https://github.com/akshayblevel/AZ-AI-ImageAnalysis)  |
-|  [AZ AI Vision OCR](https://github.com/akshayblevel/AZ-AI-OCR)  | [AZ AI Custom Vision Multi Label Image Classification](https://github.com/akshayblevel/AZ-AI-CustomVision-MultiLabelImageClassification) | [AZ AI Detect Language](https://github.com/akshayblevel/AZ-AI-Language-DetectLanguage) | [AZ AI Extract Key Phrases](https://github.com/akshayblevel/AZ-AI-Language-KeyPhrases)  |   |
+|  [AZ AI Vision OCR](https://github.com/akshayblevel/AZ-AI-OCR)  | [AZ AI Custom Vision Multi Label Image Classification](https://github.com/akshayblevel/AZ-AI-CustomVision-MultiLabelImageClassification) | [AZ AI Detect Language](https://github.com/akshayblevel/AZ-AI-Language-DetectLanguage) | [AZ AI Extract Key Phrases](https://github.com/akshayblevel/AZ-AI-Language-KeyPhrases)  | [AZ AI Sentiment Analysis](https://github.com/akshayblevel/AZ-AI-Language-SentimentAnalysis)  |
+|    |  |  |  |   |
 
 ## Design & Architecture
 |    |  |  |  |   |
