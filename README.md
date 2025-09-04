@@ -38,6 +38,7 @@
 |  [AZ AI Vision OCR](https://github.com/akshayblevel/AZ-AI-OCR)  | [AZ AI Custom Vision Multi Label Image Classification](https://github.com/akshayblevel/AZ-AI-CustomVision-MultiLabelImageClassification) | [AZ AI Detect Language](https://github.com/akshayblevel/AZ-AI-Language-DetectLanguage) | [AZ AI Extract Key Phrases](https://github.com/akshayblevel/AZ-AI-Language-KeyPhrases)  | [AZ AI Sentiment Analysis](https://github.com/akshayblevel/AZ-AI-Language-SentimentAnalysis)  |
 | [AZ AI Fetch Named Entity](https://github.com/akshayblevel/AZ-AI-Language-NamedEntity)   | [AZ AI Recognize Linked Entity](https://github.com/akshayblevel/AZ-AI-Language-LinkedEntity)  | [AZ AI Extractive Summary](https://github.com/akshayblevel/AZ-AI-Language-ExtractiveSummary)  | [AZ AI Abstractive Summary](https://github.com/akshayblevel/AZ-AI-Language-AbstractiveSummary) | [AZ AI PII Detection](https://github.com/akshayblevel/AZ-AI-Language-PiiDetection)  |
 | [AZ AI Translate Text](https://github.com/akshayblevel/AZ-AI-Translate-Text)   |  |  |  |   |
+|    |  |  |  |   |
 
 ## Design & Architecture
 |    |  |  |  |   |
