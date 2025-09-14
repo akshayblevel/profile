@@ -40,6 +40,7 @@
 |   [AZ AI Extractive Summary](https://github.com/akshayblevel/AZ-AI-Language-ExtractiveSummary) |  [AZ AI Abstractive Summary](https://github.com/akshayblevel/AZ-AI-Language-AbstractiveSummary) | [AZ AI PII Detection](https://github.com/akshayblevel/AZ-AI-Language-PiiDetection)  | [AZ AI Translate Text](https://github.com/akshayblevel/AZ-AI-Translate-Text)  | [AZ AI Translate Document](https://github.com/akshayblevel/AZ-AI-Translate-Document)  |
 |  [AZ AI Lanugage Question & Answer](https://github.com/akshayblevel/AZ-AI-Language-QnA)  | [AZ AI Conversational Language Understanding](https://github.com/akshayblevel/AZ-AI-Language-ConversationalUnderstanding)  | [AZ AI Language Text Classification](https://github.com/akshayblevel/AZ-AI-Language-TextClassification) | [AZ AI Language Custom NER](https://github.com/akshayblevel/AZ-AI-Language-CustomNER)  | [AZ AI Speech To Text](https://github.com/akshayblevel/AZ-AI-Speech-SpeechToText)  |
 |  [AZ AI Text To Speech w/ & w/o SSML](https://github.com/akshayblevel/AZ-AI-Speech-TextToSpeech)  | [AZ AI Translate Speech](https://github.com/akshayblevel/AZ-AI-Speech-Translate)  | [AZ AI Content Safety](https://github.com/akshayblevel/AZ-AI-ContentSafety)  | [AZ AI Face Comparision](https://github.com/akshayblevel/AZ-AI-FaceComparison) |   |
+|    |  |  |  |   |
 
 
 ## Design & Architecture
